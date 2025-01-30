@@ -54,8 +54,8 @@ The **Transaction Management Application** is a JavaFX-based application designe
 ### Transaction Management Application 
 │ 
 ### ├── application (Package) 
-│ └── Main.java 
-│ ├── controllers (Package) 
+#### │ └── Main.java 
+#### │ ├── controllers (Package) 
 │ ├── AdminLoginController.java 
 │ ├── AdminTransactionController.java 
 │ ├── BankLoginController.java 
