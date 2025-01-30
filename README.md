@@ -56,29 +56,29 @@ The **Transaction Management Application** is a JavaFX-based application designe
 ### ├── application (Package) 
 #### │ └── Main.java 
 #### │ ├── controllers (Package) 
-│ ├── AdminLoginController.java 
-│ ├── AdminTransactionController.java 
-│ ├── BankLoginController.java 
-│ ├── BankTransactionController.java 
-│ ├── MainController.java 
-│ ├── UserLoginController.java 
-│ └── UserTransactionController.java 
+#### │ ├── AdminLoginController.java 
+#### │ ├── AdminTransactionController.java 
+#### │ ├── BankLoginController.java 
+#### │ ├── BankTransactionController.java 
+#### │ ├── MainController.java 
+#### │ ├── UserLoginController.java 
+#### │ └── UserTransactionController.java 
 │ 
 ### ├── models (Package) 
-│ ├── DBConnect.java 
-│ ├── Transaction.java 
-│ ├── TransactionModel.java 
-│ ├── User.java 
-│ └── UserModel.java 
+#### │ ├── DBConnect.java 
+#### │ ├── Transaction.java 
+#### │ ├── TransactionModel.java 
+#### │ ├── User.java 
+#### │ └── UserModel.java 
 │ 
 ### └── views (Package) 
-├── AdminLoginView.fxml 
-├── AdminTransactionView.fxml 
-├── BankLoginView.fxml 
-├── BankTransactionView.fxml 
-├── MainView.fxml 
-├── UserLoginView.fxml 
-└── UserTransactionView.fxml
+#### ├── AdminLoginView.fxml 
+#### ├── AdminTransactionView.fxml 
+#### ├── BankLoginView.fxml 
+#### ├── BankTransactionView.fxml 
+#### ├── MainView.fxml 
+#### ├── UserLoginView.fxml 
+#### └── UserTransactionView.fxml
 
 
 ## Functionalities of Each File
